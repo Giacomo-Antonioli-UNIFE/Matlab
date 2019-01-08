@@ -18,3 +18,4 @@ xlabel('Ascisse ') ; ylabel('Valori di \phi_{r,t}(x)') ;
 legendStrings={'r = 0.27 , t = 3'; sprintf('r = %g, t = %g', r , t)};
 legend(legendStrings ) ;
 fprintf('\n\n') ;
+
